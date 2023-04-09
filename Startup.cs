@@ -9,7 +9,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+using razorweb2.models;
+using Microsoft.EntityFrameworkCore;
 
 namespace razorweb2
 {
@@ -26,7 +27,10 @@ namespace razorweb2
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-
+                services.AddDbContext<MyBlogContext>(options => {
+                string connectString = Configuration.GetConnectionString("MyBlogContext");
+                options.UseSqlServer(connectString);
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
