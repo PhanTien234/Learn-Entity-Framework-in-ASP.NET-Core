@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MRTb3grQtWIAbcroQuzH0FeO+X4JJdUvdraGyFR2LM5oMewYVK7enzkVi2nR8G5/FcX6Mj3Qjhbe2FYrhz9hug==",
+  "dgSpecHash": "n1mepvZQUaMjSicwen+D/UyIx4eb9FVq/d+T/jsq+839W5cu60NC44Efr72gWE+HcrG7tvGloowhiq/KC8qOYQ==",
   "success": true,
   "projectFilePath": "/home/tien/Desktop/razorweb2/razorweb2.csproj",
   "expectedPackageFiles": [
     "/home/tien/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/home/tien/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
+    "/home/tien/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512",
     "/home/tien/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/tien/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.11/microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "/home/tien/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

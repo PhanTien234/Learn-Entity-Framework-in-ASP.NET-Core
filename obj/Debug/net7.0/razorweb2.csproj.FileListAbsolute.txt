@@ -273,3 +273,4 @@
 /home/tien/Desktop/razorweb2/obj/Debug/net7.0/razorweb2.pdb
 /home/tien/Desktop/razorweb2/obj/Debug/net7.0/razorweb2.genruntimeconfig.cache
 /home/tien/Desktop/razorweb2/obj/Debug/net7.0/ref/razorweb2.dll
+/home/tien/Desktop/razorweb2/bin/Debug/net7.0/Bogus.dll
