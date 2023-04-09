@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/razorweb2.props" />
+</Project>
